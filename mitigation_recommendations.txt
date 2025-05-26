@@ -1,0 +1,9 @@
+Mitigation Recommendations:
+
+1. Enforce strong password policies (minimum length, complexity, expiration).
+2. Implement account lockout mechanisms after repeated failed login attempts.
+3. Use multi-factor authentication (MFA) to add an additional layer of security.
+4. Disable unused services like SSH/FTP when not needed.
+5. Monitor logs continuously using tools like Fail2Ban, Zeek, or SIEM systems.
+6. Whitelist allowed IPs and limit remote access to known devices only.
+7. Educate users to avoid using common passwords like "123456".

